@@ -44,7 +44,7 @@ deeplearn_pipeline_optimizer/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/b-tanyileke/Machine-Learning/tree/main/deeplearn_pipeline_optimizer.git
+git clone https://github.com/b-tanyileke/deeplearn_pipeline_optimizer.git
 cd deep-learning-pipeline-optimizer
 pip install -r requirements.txt
 ```
