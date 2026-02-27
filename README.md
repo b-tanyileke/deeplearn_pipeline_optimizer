@@ -6,7 +6,7 @@ The project is structured as a proper Python package, making it easy to extend, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 deeplearn_pipeline_optimizer/
 
@@ -41,7 +41,7 @@ deeplearn_pipeline_optimizer/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/b-tanyileke/deeplearn_pipeline_optimizer.git
